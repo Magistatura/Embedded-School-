@@ -1,0 +1,304 @@
+2019-10-16 00:26:44,597 [INFO] Activator:176 - 
+
+
+2019-10-16 00:26:44,600 [INFO] Activator:177 - !SESSION log4j initialized
+2019-10-16 00:26:56,622 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] proxy connection test failed
+2019-10-16 00:28:40,036 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] withoutVersionV1.24.1
+2019-10-16 00:28:40,037 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] withoutVersionV1.24.0
+2019-10-16 00:28:43,367 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] File copied successfully!!
+2019-10-16 00:28:47,144 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] proxy connection test failed
+2019-10-16 00:28:58,461 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] toolchainItems.length=====1
+2019-10-16 00:28:58,465 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-16 00:28:58,466 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-10-16 00:28:58,542 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-16 00:28:58,545 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-16 00:28:58,547 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-16 00:28:58,548 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-10-16 00:28:58,550 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-10-16 00:28:58,551 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-16 00:28:58,563 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-16 00:28:58,564 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-16 00:28:58,565 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-16 00:28:58,567 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-10-16 00:28:58,568 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-10-16 00:28:58,569 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-16 00:28:58,691 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-16 00:28:58,693 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-16 00:28:58,694 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-16 00:28:58,695 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-10-16 00:28:58,696 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-10-16 00:28:58,698 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-16 00:28:58,824 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-16 00:28:58,825 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-16 00:28:58,827 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-16 00:28:58,828 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-10-16 00:28:58,830 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-10-16 00:28:58,831 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-16 00:28:58,846 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-16 00:28:58,847 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-16 00:28:58,849 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-16 00:28:58,851 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-10-16 00:28:58,854 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-10-16 00:28:58,856 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-16 00:28:58,889 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-16 00:28:58,890 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-16 00:28:58,892 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-16 00:28:58,894 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-10-16 00:28:58,896 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-10-16 00:28:58,897 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-16 00:29:00,184 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2019-10-16 00:29:00,873 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2019-10-16 00:29:00,875 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for I2C
+2019-10-16 00:29:00,875 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2019-10-16 00:29:00,877 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2019-10-16 00:29:00,878 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for I2S
+2019-10-16 00:29:00,879 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2019-10-16 00:29:00,881 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2019-10-16 00:29:00,882 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for SPI
+2019-10-16 00:29:00,883 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2019-10-16 00:29:00,885 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2019-10-16 00:29:00,886 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for SYS
+2019-10-16 00:29:00,887 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2019-10-16 00:29:00,888 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2019-10-16 00:29:01,389 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for NVIC
+2019-10-16 00:29:01,390 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2019-10-16 00:29:02,915 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] configName ==Arm Cortex-M4
+2019-10-16 00:29:03,201 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] memory ==name="RAM" access="xrw" start="0x20000000" size="128"
+2019-10-16 00:29:03,202 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] memory ==name="CCMRAM" access="rw" start="0x10000000" size="64"
+2019-10-16 00:29:03,203 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] memory ==name="FLASH" access="rx" start="0x8000000" size="1024"
+2019-10-16 00:29:03,407 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] namefile= STM32CubeIDE
+2019-10-16 00:29:03,408 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============generate
+2019-10-16 00:29:03,454 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] org.eclipse.core.runtime.CoreException: Scratch file version is not defined
+2019-10-16 00:29:03,460 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.common.services.mx.core.scratchfile.parser.CubeScratchFileParserFactory.createCubeScratchFileParser(CubeScratchFileParserFactory.java:43)
+2019-10-16 00:29:03,463 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.ide.process.MxIdePlugInProjectGenerator.doExecute(MxIdePlugInProjectGenerator.java:240)
+2019-10-16 00:29:03,468 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.ide.process.MxIdePlugInProjectGenerator.doGenerate(MxIdePlugInProjectGenerator.java:184)
+2019-10-16 00:29:03,473 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.ide.process.MxIdePlugInProjectGeneratorAbstract.generate(MxIdePlugInProjectGeneratorAbstract.java:23)
+2019-10-16 00:29:03,476 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+2019-10-16 00:29:03,479 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+2019-10-16 00:29:03,483 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2019-10-16 00:29:03,485 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.lang.reflect.Method.invoke(Method.java:498)
+2019-10-16 00:29:03,489 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.microxplorer.plugins.projectmanager.model.ToolchainGenerator.CallMethod(ToolchainGenerator.java:255)
+2019-10-16 00:29:03,493 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.microxplorer.plugins.projectmanager.model.ToolchainGenerator.generate(ToolchainGenerator.java:368)
+2019-10-16 00:29:03,500 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.microxplorer.plugins.projectmanager.engine.ProjectBuilder.createToolChainFolders(ProjectBuilder.java:2184)
+2019-10-16 00:29:03,504 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.microxplorer.plugins.projectmanager.engine.ProjectBuilder.createProject(ProjectBuilder.java:612)
+2019-10-16 00:29:03,508 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.microxplorer.plugins.projectmanager.engine.ProjectBuilder.createProject(ProjectBuilder.java:326)
+2019-10-16 00:29:03,512 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.microxplorer.plugins.projectmanager.engine.MainProjectManager.startGenerateCode(MainProjectManager.java:1303)
+2019-10-16 00:29:03,515 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.common.mx.editor.CubeMxEditor.doGenerate(CubeMxEditor.java:1980)
+2019-10-16 00:29:03,518 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.common.mx.editor.CubeMxEditor.generate(CubeMxEditor.java:2028)
+2019-10-16 00:29:03,521 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.common.mx.editor.CubeMxEditor.access$9(CubeMxEditor.java:2021)
+2019-10-16 00:29:03,553 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.common.mx.editor.CubeMxEditor$20.run(CubeMxEditor.java:1876)
+2019-10-16 00:29:03,555 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.common.mx.oss.core.awtswtbridge.AwtEnvironment$2.run(AwtEnvironment.java:181)
+2019-10-16 00:29:03,556 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+2019-10-16 00:29:03,558 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:758)
+2019-10-16 00:29:03,559 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.awt.EventQueue.access$500(EventQueue.java:97)
+2019-10-16 00:29:03,560 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.awt.EventQueue$3.run(EventQueue.java:709)
+2019-10-16 00:29:03,561 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.awt.EventQueue$3.run(EventQueue.java:703)
+2019-10-16 00:29:03,562 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.security.AccessController.doPrivileged(Native Method)
+2019-10-16 00:29:03,564 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:74)
+2019-10-16 00:29:03,565 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.awt.EventQueue.dispatchEvent(EventQueue.java:728)
+2019-10-16 00:29:03,568 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:205)
+2019-10-16 00:29:03,569 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+2019-10-16 00:29:03,571 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+2019-10-16 00:29:03,572 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+2019-10-16 00:29:03,573 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+2019-10-16 00:29:03,575 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+2019-10-16 00:29:15,035 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-16 00:29:15,036 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-16 00:29:15,037 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-16 00:29:15,038 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-10-16 00:29:15,039 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-10-16 00:29:15,040 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-16 00:29:15,614 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2019-10-16 00:29:16,216 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2019-10-16 00:29:16,217 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for I2C
+2019-10-16 00:29:16,218 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2019-10-16 00:29:16,219 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2019-10-16 00:29:16,220 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for I2S
+2019-10-16 00:29:16,221 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2019-10-16 00:29:16,223 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2019-10-16 00:29:16,224 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for SPI
+2019-10-16 00:29:16,225 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2019-10-16 00:29:16,226 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2019-10-16 00:29:16,227 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for SYS
+2019-10-16 00:29:16,228 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2019-10-16 00:29:16,229 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2019-10-16 00:29:16,727 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for NVIC
+2019-10-16 00:29:16,728 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2019-10-16 00:29:17,953 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] configName ==Arm Cortex-M4
+2019-10-16 00:29:18,056 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] memory ==name="RAM" access="xrw" start="0x20000000" size="128"
+2019-10-16 00:29:18,058 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] memory ==name="CCMRAM" access="rw" start="0x10000000" size="64"
+2019-10-16 00:29:18,059 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] memory ==name="FLASH" access="rx" start="0x8000000" size="1024"
+2019-10-16 00:29:18,225 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] namefile= STM32CubeIDE
+2019-10-16 00:29:18,227 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============generate
+2019-10-16 00:29:18,233 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] org.eclipse.core.runtime.CoreException: Scratch file version is not defined
+2019-10-16 00:29:18,236 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.common.services.mx.core.scratchfile.parser.CubeScratchFileParserFactory.createCubeScratchFileParser(CubeScratchFileParserFactory.java:43)
+2019-10-16 00:29:18,237 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.ide.process.MxIdePlugInProjectGenerator.doExecute(MxIdePlugInProjectGenerator.java:240)
+2019-10-16 00:29:18,239 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.ide.process.MxIdePlugInProjectGenerator.doGenerate(MxIdePlugInProjectGenerator.java:184)
+2019-10-16 00:29:18,242 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.ide.process.MxIdePlugInProjectGeneratorAbstract.generate(MxIdePlugInProjectGeneratorAbstract.java:23)
+2019-10-16 00:29:18,243 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+2019-10-16 00:29:18,244 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+2019-10-16 00:29:18,246 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2019-10-16 00:29:18,247 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.lang.reflect.Method.invoke(Method.java:498)
+2019-10-16 00:29:18,249 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.microxplorer.plugins.projectmanager.model.ToolchainGenerator.CallMethod(ToolchainGenerator.java:255)
+2019-10-16 00:29:18,251 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.microxplorer.plugins.projectmanager.model.ToolchainGenerator.generate(ToolchainGenerator.java:368)
+2019-10-16 00:29:18,253 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.microxplorer.plugins.projectmanager.engine.ProjectBuilder.createToolChainFolders(ProjectBuilder.java:2184)
+2019-10-16 00:29:18,255 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.microxplorer.plugins.projectmanager.engine.ProjectBuilder.createProject(ProjectBuilder.java:612)
+2019-10-16 00:29:18,257 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.microxplorer.plugins.projectmanager.engine.ProjectBuilder.createProject(ProjectBuilder.java:326)
+2019-10-16 00:29:18,260 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.microxplorer.plugins.projectmanager.engine.MainProjectManager.startGenerateCode(MainProjectManager.java:1303)
+2019-10-16 00:29:18,262 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.microxplorer.plugins.projectmanager.engine.MainProjectManager$3.onCommandEntered(MainProjectManager.java:214)
+2019-10-16 00:29:18,263 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.components.util.CommandLineManager$3.run(CommandLineManager.java:150)
+2019-10-16 00:29:18,265 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:301)
+2019-10-16 00:29:18,266 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:758)
+2019-10-16 00:29:18,267 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.awt.EventQueue.access$500(EventQueue.java:97)
+2019-10-16 00:29:18,268 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.awt.EventQueue$3.run(EventQueue.java:709)
+2019-10-16 00:29:18,269 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.awt.EventQueue$3.run(EventQueue.java:703)
+2019-10-16 00:29:18,271 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.security.AccessController.doPrivileged(Native Method)
+2019-10-16 00:29:18,272 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:74)
+2019-10-16 00:29:18,274 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.awt.EventQueue.dispatchEvent(EventQueue.java:728)
+2019-10-16 00:29:18,275 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:205)
+2019-10-16 00:29:18,277 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+2019-10-16 00:29:18,278 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+2019-10-16 00:29:18,280 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+2019-10-16 00:29:18,282 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+2019-10-16 00:29:18,283 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+2019-10-16 00:31:20,075 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] ===========>C:/Users/?????/STM32Cube/Repository/
+2019-10-16 00:31:21,309 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] proxy connection test failed
+2019-10-16 00:33:29,403 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] proxy connection test failed
+2019-10-16 00:33:58,884 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] ===========>C:/Users/?????/STM32Cube/Repository/
+2019-10-16 00:34:01,882 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] ===========>C:/Users/?????/STM32Cube/Repository/
+2019-10-16 00:34:02,157 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] ===========>C:/Users/?????/STM32Cube/Repository/
+2019-10-16 00:34:02,313 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] ===========>C:/Users/?????/STM32Cube/Repository/
+2019-10-16 00:34:23,771 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] proxy connection test failed
+2019-10-16 00:35:31,305 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-16 00:35:31,307 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-16 00:35:31,308 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-16 00:35:31,309 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-10-16 00:35:31,311 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-10-16 00:35:31,313 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-16 00:35:31,326 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-16 00:35:31,327 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-16 00:35:31,328 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-16 00:35:31,330 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-10-16 00:35:31,332 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-10-16 00:35:31,333 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-16 00:35:31,399 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-16 00:35:31,400 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-16 00:35:31,401 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-16 00:35:31,402 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-10-16 00:35:31,403 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-10-16 00:35:31,404 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-16 00:35:40,821 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-16 00:35:40,823 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-16 00:35:40,824 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-16 00:35:40,825 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-10-16 00:35:40,826 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-10-16 00:35:40,826 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-16 00:35:41,230 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2019-10-16 00:35:41,608 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2019-10-16 00:35:41,609 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for I2C
+2019-10-16 00:35:41,609 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2019-10-16 00:35:41,610 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2019-10-16 00:35:41,611 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for I2S
+2019-10-16 00:35:41,611 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2019-10-16 00:35:41,613 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2019-10-16 00:35:41,613 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for SPI
+2019-10-16 00:35:41,614 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2019-10-16 00:35:41,615 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2019-10-16 00:35:41,616 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for SYS
+2019-10-16 00:35:41,616 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2019-10-16 00:35:41,617 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2019-10-16 00:35:42,289 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for NVIC
+2019-10-16 00:35:42,290 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2019-10-16 00:35:43,342 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] configName ==Arm Cortex-M4
+2019-10-16 00:35:43,412 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] memory ==name="RAM" access="xrw" start="0x20000000" size="128"
+2019-10-16 00:35:43,414 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] memory ==name="CCMRAM" access="rw" start="0x10000000" size="64"
+2019-10-16 00:35:43,415 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] memory ==name="FLASH" access="rx" start="0x8000000" size="1024"
+2019-10-16 00:35:43,501 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] namefile= STM32CubeIDE
+2019-10-16 00:35:43,502 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============generate
+2019-10-16 00:35:43,508 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] org.eclipse.core.runtime.CoreException: Scratch file version is not defined
+2019-10-16 00:35:43,510 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.common.services.mx.core.scratchfile.parser.CubeScratchFileParserFactory.createCubeScratchFileParser(CubeScratchFileParserFactory.java:43)
+2019-10-16 00:35:43,512 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.ide.process.MxIdePlugInProjectGenerator.doExecute(MxIdePlugInProjectGenerator.java:240)
+2019-10-16 00:35:43,514 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.ide.process.MxIdePlugInProjectGenerator.doGenerate(MxIdePlugInProjectGenerator.java:184)
+2019-10-16 00:35:43,516 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.ide.process.MxIdePlugInProjectGeneratorAbstract.generate(MxIdePlugInProjectGeneratorAbstract.java:23)
+2019-10-16 00:35:43,518 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+2019-10-16 00:35:43,519 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+2019-10-16 00:35:43,521 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2019-10-16 00:35:43,522 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.lang.reflect.Method.invoke(Method.java:498)
+2019-10-16 00:35:43,523 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.microxplorer.plugins.projectmanager.model.ToolchainGenerator.CallMethod(ToolchainGenerator.java:255)
+2019-10-16 00:35:43,525 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.microxplorer.plugins.projectmanager.model.ToolchainGenerator.generate(ToolchainGenerator.java:368)
+2019-10-16 00:35:43,527 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.microxplorer.plugins.projectmanager.engine.ProjectBuilder.createToolChainFolders(ProjectBuilder.java:2184)
+2019-10-16 00:35:43,529 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.microxplorer.plugins.projectmanager.engine.ProjectBuilder.createProject(ProjectBuilder.java:612)
+2019-10-16 00:35:43,530 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.microxplorer.plugins.projectmanager.engine.ProjectBuilder.createProject(ProjectBuilder.java:326)
+2019-10-16 00:35:43,532 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.microxplorer.plugins.projectmanager.engine.MainProjectManager.startGenerateCode(MainProjectManager.java:1303)
+2019-10-16 00:35:43,534 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.microxplorer.plugins.projectmanager.engine.MainProjectManager$3.onCommandEntered(MainProjectManager.java:214)
+2019-10-16 00:35:43,536 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.components.util.CommandLineManager$3.run(CommandLineManager.java:150)
+2019-10-16 00:35:43,537 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:301)
+2019-10-16 00:35:43,538 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:758)
+2019-10-16 00:35:43,539 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.awt.EventQueue.access$500(EventQueue.java:97)
+2019-10-16 00:35:43,540 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.awt.EventQueue$3.run(EventQueue.java:709)
+2019-10-16 00:35:43,541 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.awt.EventQueue$3.run(EventQueue.java:703)
+2019-10-16 00:35:43,542 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.security.AccessController.doPrivileged(Native Method)
+2019-10-16 00:35:43,544 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:74)
+2019-10-16 00:35:43,545 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.awt.EventQueue.dispatchEvent(EventQueue.java:728)
+2019-10-16 00:35:43,546 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:205)
+2019-10-16 00:35:43,547 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+2019-10-16 00:35:43,549 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+2019-10-16 00:35:43,550 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+2019-10-16 00:35:43,551 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+2019-10-16 00:35:43,553 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+2019-10-17 11:24:16,488 [INFO] Activator:176 - 
+
+
+2019-10-17 11:24:16,492 [INFO] Activator:177 - !SESSION log4j initialized
+2019-10-17 11:24:43,352 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] proxy connection test failed
+2019-10-17 11:25:21,673 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] toolchainItems.length=====1
+2019-10-17 11:25:21,679 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-17 11:25:21,681 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-10-17 11:25:21,799 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-17 11:25:21,802 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-17 11:25:21,805 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-17 11:25:21,808 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-10-17 11:25:21,810 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-10-17 11:25:21,813 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-17 11:25:21,835 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-17 11:25:21,838 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-17 11:25:21,841 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-17 11:25:21,844 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-10-17 11:25:21,847 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-10-17 11:25:21,873 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-17 11:25:22,196 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-17 11:25:22,200 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-17 11:25:22,204 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-17 11:25:22,208 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-10-17 11:25:22,212 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-10-17 11:25:22,216 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-17 11:34:44,961 [INFO] Activator:176 - 
+
+
+2019-10-17 11:34:44,964 [INFO] Activator:177 - !SESSION log4j initialized
+2019-10-17 11:41:15,702 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] proxy connection test failed
+2019-10-17 11:41:58,227 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] withoutVersionV1.24.1
+2019-10-17 11:41:58,228 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] withoutVersionV1.24.0
+2019-10-17 11:42:00,680 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] File copied successfully!!
+2019-10-17 11:42:01,224 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] proxy connection test failed
+2019-10-17 11:42:06,396 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] toolchainItems.length=====1
+2019-10-17 11:42:08,334 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2019-10-17 11:42:09,100 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2019-10-17 11:42:09,101 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for I2C
+2019-10-17 11:42:09,102 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2019-10-17 11:42:09,104 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2019-10-17 11:42:09,106 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for I2S
+2019-10-17 11:42:09,107 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2019-10-17 11:42:09,108 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2019-10-17 11:42:09,110 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for SPI
+2019-10-17 11:42:09,111 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2019-10-17 11:42:09,113 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2019-10-17 11:42:09,114 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for SYS
+2019-10-17 11:42:09,116 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2019-10-17 11:42:09,117 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2019-10-17 11:42:09,601 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for NVIC
+2019-10-17 11:42:09,603 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2019-10-17 11:42:40,965 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Tab changed to: Clock Configuration
+2019-10-17 11:43:22,232 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Tab changed to: Project Manager
+2019-10-17 11:43:23,490 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Tab changed to: Clock Configuration
+2019-10-17 11:43:24,639 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Tab changed to: Pinout & Configuration
