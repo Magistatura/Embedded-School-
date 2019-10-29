@@ -59,19 +59,6 @@ static void MX_I2C1_Init(void);
 static void MX_I2S3_Init(void);
 static void MX_SPI1_Init(void);
 void MX_USB_HOST_Process(void);
-void ONLED (uint32_t perion, uint32_t dutycecle)
-{
-	HAL_GPI0_WhitePin(LD6_GPI0_Port, GPIO_PIN_SET);
-	HAL_GPI0_WhitePin(LD5_GPI0_Port, GPIO_PIN_SET);
-	HAL_GPI0_WhitePin(LD4_GPI0_Port, GPIO_PIN_SET);
-	HAL_GPI0_WhitePin(LD3_GPI0_Port, GPIO_PIN_SET);
-	HAL_Delay(dutycycle);
-	HAL_GRI0_WhitePin(LD6_GPI0_Port, GPIO_PIN_RESET);
-	HAL_GRI0_WhitePin(LD5_GPI0_Port, GPIO_PIN_RESET);
-	HAL_GRI0_WhitePin(LD4_GPI0_Port, GPIO_PIN_RESET);
-	HAL_GRI0_WhitePin(LD3_GPI0_Port, GPIO_PIN_RESET);
-	HAL_Delay(perion-dutycycle);
-}
 
 void HeartBeat(uint32_t perion, uint32_t dutycycle)
 {
@@ -79,22 +66,6 @@ void HeartBeat(uint32_t perion, uint32_t dutycycle)
 	HAL_Delay(dutycycle);
 	HAL_GRI0_WhitePin(LD6_GPI0_Port, GPIO_PIN_RESET);
 	HAL_Delay(perion-dutycycle);
-
-	HAL_GPI0_WhitePin(LD5_GPI0_Port, GPIO_PIN_SET);
-    HAL_Delay(dutycycle);
-	HAL_GRI0_WhitePin(LD5_GPI0_Port, GPIO_PIN_RESET);
-	HAL_Delay(perion-dutycycle);
-
-	HAL_GPI0_WhitePin(LD4_GPI0_Port, GPIO_PIN_SET);
-	HAL_Delay(dutycycle);
-	HAL_GRI0_WhitePin(LD4_GPI0_Port, GPIO_PIN_RESET);
-	HAL_Delay(perion-dutycycle);
-
-	HAL_GPI0_WhitePin(LD3_GPI0_Port, GPIO_PIN_SET);
-	HAL_Delay(dutycycle);
-	HAL_GRI0_WhitePin(LD3_GPI0_Port, GPIO_PIN_RESET);
-	HAL_Delay(perion-dutycycle);
-
 }
 /* USER CODE BEGIN PFP */
 
@@ -139,7 +110,7 @@ int main(void)
   MX_SPI1_Init();
   MX_USB_HOST_Init();
   /* USER CODE BEGIN 2 */
-   ONLED( 1000, 300);
+
   /* USER CODE END 2 */
 
   /* Infinite loop */
